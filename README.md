@@ -5,10 +5,6 @@ Plug-and-play [ComfyUI](https://github.com/comfyanonymous/ComfyUI) node sets for
 
 ![](./examples/CNAuxBanner.jpg)
 
-The code is copy-pasted from the respective folders in https://github.com/lllyasviel/ControlNet/tree/main/annotator and connected to [the 🤗 Hub](https://huggingface.co/lllyasviel/Annotators).
-
-All credit & copyright goes to https://github.com/lllyasviel.
-
 # Updates
 Go to [Update page](./UPDATES.md) to follow updates
 
@@ -248,5 +244,3 @@ Note that if this is your first time using ComfyUI, please test if it can run on
     <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=Fannovel16/comfyui_controlnet_aux&type=Date" />
   </picture>
 </a>
-
-Thanks for yalls supports. I never thought the graph for stars would be linear lol.
